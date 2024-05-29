@@ -1,1 +1,2 @@
 # software_engineering
+ソフトウェア工学の授業用リポジトリ
